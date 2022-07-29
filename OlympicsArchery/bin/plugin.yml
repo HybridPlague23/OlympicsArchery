@@ -1,0 +1,8 @@
+name: OlympicsArchery
+main: me.hybridplague.olympicsarchery.OlympicsArchery
+version: 1.0
+api-version: 1.13
+
+commands:
+  archeryequipment:
+  joinarchery:
